@@ -1,16 +1,29 @@
-# google_email_sign_in_flutter
+# google_sign_in_with_firebase_flutter
 
-A new Flutter project.
+Email and Google Sign in
 
-## Getting Started
+## Screenshots
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<p float="left"> 
+ <kbd>
+  <img src="images/mainPage.png" width=250>
+</kbd>
+  <kbd>
+  <img src="images/googleSignIn.png" width=250>
+</kbd>
+  <kbd>
+  <img src="images/emailSignIn.png" width=250>
+</kbd>
+  <kbd>
+ <img src="images/register.png" width=250>
+</kbd>
+  <kbd>
+  <img src="images/signedIn.png" width=250>
+</kbd> 
+</p>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
